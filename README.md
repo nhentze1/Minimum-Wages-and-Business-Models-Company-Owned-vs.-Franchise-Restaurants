@@ -1,6 +1,6 @@
 # Minimum-Wages-and-Business-Models-Company-Owned-vs.-Franchise-Restaurants
 
-We replicate and extend Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania Card and Krueger (1994.) 
+We replicate and extend Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania Card and Krueger (1994). 
 Utilizing the 1992 New Jersey minimum wage increase as natural experiment, we apply Difference-in-Differences (DiD) methods in order to investigate three potential adjustment channels:
   1. Employment: Did franchise restaurants reduce employment by a larger margin than company-owned restaurants?
   2. Pricing: Did franchise restaurants increase product prices more strongly?
