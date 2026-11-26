@@ -6,5 +6,10 @@ Utilizing the 1992 New Jersey minimum wage increase as natural experiment, we ap
   2. Pricing: Did franchise restaurants increase product prices more strongly than company-owned restaurants?
   3. Operation: Did franchise restaurants adjust their operating hours more substantially than company-owned restaurants?
 
+Based on this, we formulate three different hypotheses:
+1. Due to differences in managerial flexibility, we expect franchise restaurants to adjust employment more strongly than company-owned restaurants.
+2. Due to greater pricing flexibility, we expect franchise restaurants to adjust product prices more strongly than company-owned restaurants.
+3. Due to greater operational flexibility, we expect franchise restaurants to adjust their operating hours more strongly than company-owned restaurants. 
+
 You can run the notebook without having to save the data on your local harddrive (internet connection required).
 Alternatively, you can manually upload the file into the notebook.
